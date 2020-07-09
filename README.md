@@ -1,3 +1,4 @@
 ### Hi, I'm Jorge 👋
 
-I'm currently working at @auth0 platform team. Feel free to reach me at https://twitter.com/jorgefatta.
+I'm currently working at [Auth0](https://auth0.com/) platform team. 
+Say hi at https://twitter.com/jorgefatta.
