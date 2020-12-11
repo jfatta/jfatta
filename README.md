@@ -1,5 +1,3 @@
 ### Hi 👋
 
-I'm working at the [Auth0](https://auth0.com/) **Platform** team.
-
-Say hi at https://twitter.com/jorgefatta.
+I'm Jorge. I'm a senior software engineer living in `Buenos Aires, Argentina` and working at [`Auth0`](https://auth0.com/).
