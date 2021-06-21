@@ -1,2 +1,2 @@
 # Hi, 
-I'm Jorge. Senior Software Engineer working at [`Auth0`](https://auth0.com/).
+I'm Jorge. I do platform stuff at [`Auth0`](https://auth0.com/).
